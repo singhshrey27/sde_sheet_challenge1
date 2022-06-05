@@ -1,5 +1,5 @@
-// CODE WRITTEN BY SHIRANSH PRTAP SINGH
-Approach 1: Counting method  
+// CODE WRITTEN BY SHIRANSH PRATAP SINGH
+//Approach 1: Counting method  
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -31,7 +31,7 @@ cout<<vec[i]<<" ";
 return 0;
 }
 
-Approach 2: Dutch National flag algorithm
+//Approach 2: Dutch National flag algorithm
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -75,7 +75,7 @@ int main()
     
 }
 
-Note: Code submitted on codestudio
+//Note: Code submitted on codestudio
 
 #include <bits/stdc++.h> 
 void sort012(int *arr, int n)
